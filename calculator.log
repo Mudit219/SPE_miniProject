@@ -1,0 +1,16 @@
+17/Apr/2022:21:59:47 239 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
+17/Apr/2022:21:59:47 244 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
+17/Apr/2022:21:59:47 246 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
+17/Apr/2022:21:59:47 247 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
+17/Apr/2022:21:59:47 248 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
+17/Apr/2022:21:59:47 249 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
+17/Apr/2022:21:59:47 249 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
+17/Apr/2022:21:59:47 250 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
+17/Apr/2022:21:59:47 251 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
+17/Apr/2022:21:59:47 252 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
+17/Apr/2022:21:59:47 253 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
+17/Apr/2022:21:59:47 253 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
+17/Apr/2022:21:59:47 254 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
+17/Apr/2022:21:59:47 254 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
+17/Apr/2022:21:59:47 255 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
+17/Apr/2022:21:59:47 255 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
