@@ -12,68 +12,75 @@ public class CalcTest {
     }
 
     @Test
-    public void truePositiveSqrt(){
-        double number = 16;
-        double actual = 4;
-        assertEquals(calculator.sqrt(number), actual, 0.2f);
+    public void correctSqrt(){
+        double test1 = 16;
+        double res1 = 4;
+        double test2 = 256;
+        double res2 = 16;
+        assertEquals(calculator.sqrt(test1), res1, 0.2f);
+        assertEquals(calculator.sqrt(test2), res2, 0.2f);
     }
 
     @Test
-    public void truePositiveFactorial(){
-        int number = 5;
-        int actual = 120;
-//        System.out.println("Checking square root of 9");
-        assertEquals(calculator.factorial(number), actual, 0.2f);
+    public void incorrectSqrt(){
+        double test1 = 25;
+        double res1 = 4;
+        assertNotEquals(calculator.sqrt(test1), res1, 0.2f);
     }
 
     @Test
-    public void truePositiveLogBase_e(){
-        double number = 3.14;
-        double actual = 1.1442;
-//        System.out.println("Checking square root of 9");
-        assertEquals(calculator.logbase_e(number), actual, 0.2f);
+    public void correctFactorial(){
+        int test1 = 5;
+        int res1 = 120;
+        int test2 = 10;
+        int res2 = 3628800;
+        assertEquals(calculator.factorial(test1), res1, 0.2f);
+        assertEquals(calculator.factorial(test2), res2, 0.2f);
     }
 
     @Test
-    public void truePositivePowerX_y(){
-        double numberX = 2.3;
-        double numberY = 6;
-        double actual = 148.0358;
-//        System.out.println("Checking square root of 9");
-        assertEquals(calculator.powerX_y(numberX, numberY), actual, 0.2f);
+    public void incorrectFactorial(){
+        int test1 = 6;
+        int res1 = 725;
+        assertNotEquals(calculator.factorial(test1), res1, 0.2f);
+        assertNotEquals(calculator.factorial(test1), res1, 0.2f);
     }
 
     @Test
-    public void trueNegativeSqrt(){
-        double number = 25;
-        double actual = 4;
-//        System.out.println("Checking square root of 9");
-        assertNotEquals(calculator.sqrt(number), actual, 0.2f);
+    public void correctLogBase_e(){
+        double test1 = 3.14;
+        double res1 = 1.1442;
+        double test2 = 29;
+        double res2 = 3.3672;
+        assertEquals(calculator.logbase_e(test1), res1, 0.2f);
+        assertEquals(calculator.logbase_e(test2), res2, 0.2f);
     }
 
     @Test
-    public void trueNegativeFactorial(){
-        int number = 6;
-        int actual = 725;
-//        System.out.println("Checking square root of 9");
-        assertNotEquals(calculator.factorial(number), actual, 0.2f);
+    public void incorrectLogBase_e(){
+        double test1 = 26;
+        double res1 = 2.99;
+        assertNotEquals(calculator.logbase_e(test1), res1, 0.2f);
     }
 
     @Test
-    public void trueNegativeLogBase_e(){
-        double number = 26;
-        double actual = 2.99;
-//        System.out.println("Checking square root of 9");
-        assertNotEquals(calculator.logbase_e(number), actual, 0.2f);
+    public void correctPowerX_y(){
+        double test1numberX = 2.3;
+        double test1numberY = 6;
+        double res1 = 148.0358;
+        double test2numberX = 13;
+        double test2numberY = 4;
+        double res2 = 28561;
+        assertEquals(calculator.powerX_y(test1numberX, test1numberY), res1, 0.2f);
+        assertEquals(calculator.powerX_y(test2numberX, test2numberY), res2, 0.2f);
     }
 
     @Test
-    public void trueNegativePowerX_y(){
+    public void incorrectPowerX_y(){
         double numberX = 6;
         double numberY = 3;
-        double actual = 217;
-//        System.out.println("Checking square root of 9");
-        assertNotEquals(calculator.powerX_y(numberX, numberY), actual, 0.2f);
+        double res = 217;
+        assertNotEquals(calculator.powerX_y(numberX, numberY), res, 0.2f);
     }
 
 }
