@@ -8,39 +8,41 @@ import org.apache.logging.log4j.Logger;
 public class Calc {
     private static final Logger logger = LogManager.getLogger(Calc.class);
     public static double sqrt(double number){
-        logger.info("Using square root function on given number : " + number);
+        logger.info("Using square root function");
         double res = Math.sqrt(number);
-        logger.info("Final result on applying square root function " + number + " is: " + res);
+//        logger.info("Final result on applying square root function " + number + " is: " + res);
         return res;
     }
 
     public static int factorial(int number){
-        logger.info("Using factorial function on given number : " + number);
+        logger.info("Using factorial function" );
         int res = 1;
         for(int i=number; i>0; i--){
             res *=i;
         }
-        logger.info("Final result on applying factorial function " + number + " is: " + res);
+//        logger.info("Final result on applying factorial function " + number + " is: " + res);
         return res;
     }
 
     public static double logbase_e(double number){
-        logger.info("Using logarithmic function on given number : " + number);
+        logger.info("Using logarithmic function");
         double res = Math.log(number);
-        logger.info("Final result on applying logarithmic function " + number + " is: " + res);
+//        logger.info("Final result on applying logarithmic function " + number + " is: " + res);
         return res;
     }
 
     public static double powerX_y(double number_x, double number_y){
-        logger.info("Using power function on given number : " + number_x + " of power " + number_y);
+        logger.info("Using power function");
         double res = Math.pow(number_x, number_y);
-        logger.info("Final result on applying power function on  : " + number_x + " of power " + number_y + " is: " + res);
+//        logger.info("Final result on applying power function on  : " + number_x + " of power " + number_y + " is: " + res);
         return res;
     }
 
     public static void main(String[] args) {
         boolean keep_run=true;
         Scanner in = new Scanner(System.in);
+
+
         while(keep_run){
             System.out.println("Welcome to Calculator program, please choose one of the following options");
             System.out.println("Option 1: Square Root of a given number");
@@ -50,6 +52,7 @@ public class Calc {
             System.out.println("Option 5: Exit the calculator");
 
             int option = in.nextInt();
+            logger.info("Option " + option);
 
             if(option == 1){
                 System.out.println("Please enter the number");

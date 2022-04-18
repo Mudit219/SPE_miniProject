@@ -1,258 +1,66 @@
-17/Apr/2022:21:59:47 239 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-17/Apr/2022:21:59:47 244 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-17/Apr/2022:21:59:47 246 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-17/Apr/2022:21:59:47 247 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-17/Apr/2022:21:59:47 248 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-17/Apr/2022:21:59:47 249 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-17/Apr/2022:21:59:47 249 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-17/Apr/2022:21:59:47 250 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-17/Apr/2022:21:59:47 251 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-17/Apr/2022:21:59:47 252 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-17/Apr/2022:21:59:47 253 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-17/Apr/2022:21:59:47 253 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-17/Apr/2022:21:59:47 254 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-17/Apr/2022:21:59:47 254 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-17/Apr/2022:21:59:47 255 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-17/Apr/2022:21:59:47 255 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-17/Apr/2022:22:18:34 071 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-17/Apr/2022:22:18:34 082 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-17/Apr/2022:22:18:34 084 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-17/Apr/2022:22:18:34 085 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-17/Apr/2022:22:18:34 086 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-17/Apr/2022:22:18:34 087 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-17/Apr/2022:22:18:34 088 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-17/Apr/2022:22:18:34 089 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-17/Apr/2022:22:18:34 090 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-17/Apr/2022:22:18:34 091 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-17/Apr/2022:22:18:34 092 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-17/Apr/2022:22:18:34 092 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-17/Apr/2022:22:18:34 093 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-17/Apr/2022:22:18:34 094 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-17/Apr/2022:22:18:34 095 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-17/Apr/2022:22:18:34 095 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:23:31 960 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:23:31 965 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:23:31 965 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:23:31 966 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:23:31 966 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:23:31 966 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:03:23:31 967 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:23:31 967 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:23:31 967 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:23:31 967 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:23:31 968 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:23:31 968 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:23:31 969 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:23:31 969 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:23:31 970 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:23:31 970 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:24:53 150 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:24:53 153 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:24:53 153 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:24:53 154 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:24:53 154 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:24:53 154 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:03:24:53 155 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:24:53 155 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:24:53 155 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:24:53 155 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:24:53 156 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:24:53 156 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:24:53 156 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:24:53 156 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:24:53 157 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:24:53 157 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:33:21 324 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:33:21 330 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:33:21 336 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:33:21 336 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:33:21 337 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 13.0 of power 4.0
-18/Apr/2022:03:33:21 337 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 13.0 of power 4.0 is: 28561.0
-18/Apr/2022:03:33:21 338 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:33:21 338 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:33:21 339 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:33:21 340 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:33:21 340 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 29.0
-18/Apr/2022:03:33:21 341 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 29.0 is: 3.367295829986474
-18/Apr/2022:03:33:21 342 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:33:21 342 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:33:21 343 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 256.0
-18/Apr/2022:03:33:21 343 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 256.0 is: 16.0
-18/Apr/2022:03:33:21 344 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:33:21 344 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:33:21 345 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:33:21 346 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:33:21 346 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 10
-18/Apr/2022:03:33:21 347 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 10 is: 3628800
-18/Apr/2022:03:33:21 348 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:33:21 348 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:03:34:01 164 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:34:01 167 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:34:01 169 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:34:01 170 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:34:01 170 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 13.0 of power 4.0
-18/Apr/2022:03:34:01 170 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 13.0 of power 4.0 is: 28561.0
-18/Apr/2022:03:34:01 170 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:34:01 171 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:34:01 171 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:34:01 171 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:34:01 171 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 29.0
-18/Apr/2022:03:34:01 171 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 29.0 is: 3.367295829986474
-18/Apr/2022:03:34:01 172 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:34:01 172 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:34:01 172 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 256.0
-18/Apr/2022:03:34:01 172 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 256.0 is: 16.0
-18/Apr/2022:03:34:01 173 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:34:01 173 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:34:01 174 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:34:01 174 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:34:01 174 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 10
-18/Apr/2022:03:34:01 174 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 10 is: 3628800
-18/Apr/2022:03:34:01 175 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:34:01 175 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:03:34:10 634 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:34:10 639 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:34:10 643 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:34:10 643 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:34:10 644 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 13.0 of power 4.0
-18/Apr/2022:03:34:10 644 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 13.0 of power 4.0 is: 28561.0
-18/Apr/2022:03:34:10 645 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:34:10 645 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:34:10 646 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:34:10 646 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:34:10 646 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 29.0
-18/Apr/2022:03:34:10 646 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 29.0 is: 3.367295829986474
-18/Apr/2022:03:34:10 647 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:34:10 647 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:34:10 648 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 256.0
-18/Apr/2022:03:34:10 648 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 256.0 is: 16.0
-18/Apr/2022:03:34:10 649 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:34:10 649 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:34:10 650 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:34:10 651 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:34:10 651 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 10
-18/Apr/2022:03:34:10 651 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 10 is: 3628800
-18/Apr/2022:03:34:10 652 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:34:10 653 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:03:35:51 120 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:35:51 123 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:35:51 126 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:35:51 126 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:35:51 126 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 13.0 of power 4.0
-18/Apr/2022:03:35:51 127 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 13.0 of power 4.0 is: 28561.0
-18/Apr/2022:03:35:51 127 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:35:51 127 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:35:51 128 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:35:51 128 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:35:51 128 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 29.0
-18/Apr/2022:03:35:51 128 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 29.0 is: 3.367295829986474
-18/Apr/2022:03:35:51 129 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:35:51 129 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:35:51 129 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 256.0
-18/Apr/2022:03:35:51 130 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 256.0 is: 16.0
-18/Apr/2022:03:35:51 130 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:35:51 130 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:35:51 131 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:35:51 131 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:35:51 131 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 10
-18/Apr/2022:03:35:51 131 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 10 is: 3628800
-18/Apr/2022:03:35:51 132 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:35:51 132 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:03:36:26 841 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:36:26 846 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:36:26 852 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:36:26 853 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:36:26 853 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 13.0 of power 4.0
-18/Apr/2022:03:36:26 853 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 13.0 of power 4.0 is: 28561.0
-18/Apr/2022:03:36:26 854 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:36:26 855 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:36:26 856 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:36:26 856 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:36:26 857 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 29.0
-18/Apr/2022:03:36:26 857 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 29.0 is: 3.367295829986474
-18/Apr/2022:03:36:26 858 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:36:26 859 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:36:26 859 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 256.0
-18/Apr/2022:03:36:26 860 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 256.0 is: 16.0
-18/Apr/2022:03:36:26 860 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:36:26 861 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:36:26 862 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:36:26 862 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:36:26 863 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 10
-18/Apr/2022:03:36:26 863 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 10 is: 3628800
-18/Apr/2022:03:36:26 864 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:36:26 865 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:03:37:02 191 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:37:02 196 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:37:02 200 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:37:02 201 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:37:02 201 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 13.0 of power 4.0
-18/Apr/2022:03:37:02 201 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 13.0 of power 4.0 is: 28561.0
-18/Apr/2022:03:37:02 202 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:37:02 202 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:37:02 203 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:37:02 203 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:37:02 204 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 29.0
-18/Apr/2022:03:37:02 204 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 29.0 is: 3.367295829986474
-18/Apr/2022:03:37:02 205 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:37:02 205 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:37:02 205 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 256.0
-18/Apr/2022:03:37:02 205 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 256.0 is: 16.0
-18/Apr/2022:03:37:02 206 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:37:02 207 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:37:02 208 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:37:02 208 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:37:02 208 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 10
-18/Apr/2022:03:37:02 209 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 10 is: 3628800
-18/Apr/2022:03:37:02 210 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:37:02 210 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:03:37:11 451 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:03:37:11 456 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:03:37:11 460 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:03:37:11 460 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:03:37:11 461 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 13.0 of power 4.0
-18/Apr/2022:03:37:11 461 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 13.0 of power 4.0 is: 28561.0
-18/Apr/2022:03:37:11 462 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:03:37:11 462 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:03:37:11 463 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:03:37:11 463 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:03:37:11 463 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 29.0
-18/Apr/2022:03:37:11 464 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 29.0 is: 3.367295829986474
-18/Apr/2022:03:37:11 465 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:03:37:11 465 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:03:37:11 466 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 256.0
-18/Apr/2022:03:37:11 466 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 256.0 is: 16.0
-18/Apr/2022:03:37:11 467 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:03:37:11 467 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:03:37:11 468 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:03:37:11 469 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:03:37:11 469 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 10
-18/Apr/2022:03:37:11 469 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 10 is: 3628800
-18/Apr/2022:03:37:11 470 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:03:37:11 470 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
-18/Apr/2022:04:07:42 160 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:04:07:42 168 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:04:07:42 168 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 6
-18/Apr/2022:04:07:42 168 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 6 is: 720
-18/Apr/2022:04:07:42 175 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 2.3 of power 6.0
-18/Apr/2022:04:07:42 176 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 2.3 of power 6.0 is: 148.03588899999994
-18/Apr/2022:04:07:42 177 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 13.0 of power 4.0
-18/Apr/2022:04:07:42 178 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 13.0 of power 4.0 is: 28561.0
-18/Apr/2022:04:07:42 180 [Calc.java] [INFO] org.mudit.Calc Using power function on given number : 6.0 of power 3.0
-18/Apr/2022:04:07:42 181 [Calc.java] [INFO] org.mudit.Calc Final result on applying power function on  : 6.0 of power 3.0 is: 216.0
-18/Apr/2022:04:07:42 182 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 3.14
-18/Apr/2022:04:07:42 183 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 3.14 is: 1.144222799920162
-18/Apr/2022:04:07:42 184 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 29.0
-18/Apr/2022:04:07:42 184 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 29.0 is: 3.367295829986474
-18/Apr/2022:04:07:42 186 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 16.0
-18/Apr/2022:04:07:42 187 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 16.0 is: 4.0
-18/Apr/2022:04:07:42 187 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 256.0
-18/Apr/2022:04:07:42 188 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 256.0 is: 16.0
-18/Apr/2022:04:07:42 189 [Calc.java] [INFO] org.mudit.Calc Using logarithmic function on given number : 26.0
-18/Apr/2022:04:07:42 189 [Calc.java] [INFO] org.mudit.Calc Final result on applying logarithmic function 26.0 is: 3.258096538021482
-18/Apr/2022:04:07:42 191 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 5
-18/Apr/2022:04:07:42 191 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 5 is: 120
-18/Apr/2022:04:07:42 193 [Calc.java] [INFO] org.mudit.Calc Using factorial function on given number : 10
-18/Apr/2022:04:07:42 194 [Calc.java] [INFO] org.mudit.Calc Final result on applying factorial function 10 is: 3628800
-18/Apr/2022:04:07:42 195 [Calc.java] [INFO] org.mudit.Calc Using square root function on given number : 25.0
-18/Apr/2022:04:07:42 196 [Calc.java] [INFO] org.mudit.Calc Final result on applying square root function 25.0 is: 5.0
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":171000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":301000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":303000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":303000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":304000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":305000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":306000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":307000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":307000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":308000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":309000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":310000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275439,"nanoOfSecond":311000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:38.745+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":818000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":957000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":958000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":959000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":959000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":960000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":961000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":962000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":962000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":963000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":964000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":964000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275455,"nanoOfSecond":965000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:20:55.440+0530"}
+{"instant":{"epochSecond":1650275474,"nanoOfSecond":299000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 1","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275477,"nanoOfSecond":241000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275481,"nanoOfSecond":531000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 1","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275486,"nanoOfSecond":876000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275491,"nanoOfSecond":826000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 3","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275493,"nanoOfSecond":930000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275501,"nanoOfSecond":351000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 3","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275502,"nanoOfSecond":962000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275504,"nanoOfSecond":944000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 3","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275506,"nanoOfSecond":481000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275510,"nanoOfSecond":87000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 2","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275516,"nanoOfSecond":31000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275539,"nanoOfSecond":765000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 4","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275543,"nanoOfSecond":237000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275545,"nanoOfSecond":726000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 4","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275564,"nanoOfSecond":597000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275597,"nanoOfSecond":71000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 4","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275606,"nanoOfSecond":672000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275613,"nanoOfSecond":308000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 2","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275617,"nanoOfSecond":672000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275620,"nanoOfSecond":824000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 3","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275625,"nanoOfSecond":324000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275628,"nanoOfSecond":555000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 3","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275630,"nanoOfSecond":442000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275634,"nanoOfSecond":917000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 4","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275638,"nanoOfSecond":483000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275642,"nanoOfSecond":570000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 4","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275646,"nanoOfSecond":520000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using power function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275649,"nanoOfSecond":634000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 5","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:21:10.148+0530"}
+{"instant":{"epochSecond":1650275653,"nanoOfSecond":163000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 1","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275655,"nanoOfSecond":204000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275656,"nanoOfSecond":963000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 1","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275659,"nanoOfSecond":403000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using square root function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275661,"nanoOfSecond":781000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 2","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275665,"nanoOfSecond":693000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using factorial function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275668,"nanoOfSecond":529000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 3","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275670,"nanoOfSecond":635000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Using logarithmic function","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275673,"nanoOfSecond":702000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 5","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:11.310+0530"}
+{"instant":{"epochSecond":1650275677,"nanoOfSecond":161000000},"thread":"main","level":"INFO","loggerName":"org.mudit.Calc","message":"Option 5","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","threadId":1,"threadPriority":5,"@timestamp":"2022-04-18T15:24:36.001+0530"}
+
